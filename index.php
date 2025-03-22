@@ -17,7 +17,7 @@ define('TEST_CSS_PATH', '/stylesheet');
     <div class="content" style="width: 100vw;height: 100vh;display: flex;align-items: center;justify-content: center;flex-direction: column;">
         <script src="<?= TEST_JAVASCRIPT_PATH ?>/testFunctions.js"></script>
         <div>
-            <label style="font-weight: 600; font-size: 32px;">Website Under Developement!</label>
+            <label style="font-weight: 600; font-size: 32px;">Website Under Developement! Soon to Completed!</label>
         </div>
         <div>
             <label style="font-weight: 600; font-size: 22px; color: #1e88e5;">by Agsoy, Jay Mark V.</label>
